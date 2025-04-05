@@ -16,7 +16,7 @@ An unrestricted SQL injection attack exists in patient-record-management-system-
 
 When the value of $id parameter is obtained in /edit_dpatient.php , it will be concatenated into SQL statements and executed, which has a SQL injection vulnerability. 
 
-![image-20250405231201007](sql80(未交).assets/image-20250405231201007.png)
+![Image](https://github.com/user-attachments/assets/bcf9bc0b-710a-43b7-93dd-c43666ad4088)
 
 
 
