@@ -11,7 +11,7 @@ https://code-projects.org/patient-record-management-system-in-php-with-source-co
 
 ## describe
 
-An unrestricted SQL injection attack exists in patient-record-management-system-in-php in dental_not.php. The parameters that can be controlled are as follows: $ia. This function executes the id parameter into the SQL statement without any restrictions. A malicious attacker could exploit this vulnerability to obtain sensitive information in the server database.
+An unrestricted SQL injection attack exists in patient-record-management-system-in-php in dental_pending.php. The parameters that can be controlled are as follows: $id. This function executes the id parameter into the SQL statement without any restrictions. A malicious attacker could exploit this vulnerability to obtain sensitive information in the server database.
 
 **Code analysis**    
 
